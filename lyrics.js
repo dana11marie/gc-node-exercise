@@ -3,3 +3,4 @@ var lyrics = ['Let it be.', 'Say it aint so.', 'Take me or leave me.', 'Its easy
 module.exports = lyrics;
 
 //whatsup homies -Gao
+//this world is ending
